@@ -1,4 +1,5 @@
 #define REDLED 7
+#define STAR_BTN 5
 #define BLUE_LED 8
 #define START_BIN 5
 
