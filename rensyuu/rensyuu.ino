@@ -3,6 +3,8 @@
 #define BLUE_LED 8
 #define START_BIN 5
 
+$$$
+
 void setup() {
   Serial.begin(9600);
 }
